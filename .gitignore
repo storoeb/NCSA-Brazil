@@ -1,0 +1,20 @@
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# Output files
+output_graphs/
+*.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
