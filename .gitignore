@@ -2,6 +2,7 @@
 env/
 venv/
 ENV/
+.venv/
 
 # Output files
 output_graphs/
