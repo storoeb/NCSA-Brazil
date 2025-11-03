@@ -1,0 +1,32 @@
+================================================================================
+CASE STUDY REPORT: farm_site_2
+================================================================================
+
+Site Type: FARM
+Description: Santana do Araguaia agricultural area
+Location: -9.30°S, -50.10°W
+Expected Transition Year: 2008
+
+--------------------------------------------------------------------------------
+
+KEY FINDINGS:
+--------------------------------------------------------------------------------
+Peak Deforestation Year: 2001
+Nighttime Lights Increase: nan%
+NDVI-Lights Correlation: -0.390
+Economic Activity Trend: increasing (0.0423/year)
+
+================================================================================
+SUMMARY:
+================================================================================
+
+This site shows how deforestation in the Brazilian Amazon has been linked
+to economic development through agricultural production.
+
+As a farm site, this area demonstrates:
+- Conversion of forest to crop cultivation
+- Changes in vegetation productivity (NDVI)
+- Economic activity indicators (nighttime lights)
+
+Annual snapshots and time series plots provide visual evidence of
+the transformation and its economic consequences.

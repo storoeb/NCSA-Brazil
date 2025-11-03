@@ -1,0 +1,32 @@
+================================================================================
+CASE STUDY REPORT: pasture_site_1
+================================================================================
+
+Site Type: PASTURE
+Description: São Félix do Xingu cattle ranch
+Location: -6.60°S, -51.98°W
+Expected Transition Year: 2003
+
+--------------------------------------------------------------------------------
+
+KEY FINDINGS:
+--------------------------------------------------------------------------------
+Peak Deforestation Year: 2001
+Nighttime Lights Increase: nan%
+NDVI-Lights Correlation: -0.480
+Economic Activity Trend: increasing (0.0833/year)
+
+================================================================================
+SUMMARY:
+================================================================================
+
+This site shows how deforestation in the Brazilian Amazon has been linked
+to economic development through agricultural production.
+
+As a pasture site, this area demonstrates:
+- Conversion of forest to cattle ranching
+- Changes in land use patterns
+- Local economic development
+
+Annual snapshots and time series plots provide visual evidence of
+the transformation and its economic consequences.

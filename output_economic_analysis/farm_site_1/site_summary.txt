@@ -1,0 +1,32 @@
+================================================================================
+CASE STUDY REPORT: farm_site_1
+================================================================================
+
+Site Type: FARM
+Description: Paragominas soybean farm
+Location: -3.00°S, -47.35°W
+Expected Transition Year: 2005
+
+--------------------------------------------------------------------------------
+
+KEY FINDINGS:
+--------------------------------------------------------------------------------
+Peak Deforestation Year: 2001
+Nighttime Lights Increase: nan%
+NDVI-Lights Correlation: -0.580
+Economic Activity Trend: increasing (0.1920/year)
+
+================================================================================
+SUMMARY:
+================================================================================
+
+This site shows how deforestation in the Brazilian Amazon has been linked
+to economic development through agricultural production.
+
+As a farm site, this area demonstrates:
+- Conversion of forest to crop cultivation
+- Changes in vegetation productivity (NDVI)
+- Economic activity indicators (nighttime lights)
+
+Annual snapshots and time series plots provide visual evidence of
+the transformation and its economic consequences.

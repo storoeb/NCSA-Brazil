@@ -1,0 +1,55 @@
+================================================================================
+COMBINED ANALYSIS SUMMARY
+Deforestation to Economic Impact - Brazilian Amazon
+================================================================================
+
+Total Sites Analyzed: 6
+  - Farm Sites: 3
+  - Pasture Sites: 3
+Analysis Period: 2000-2023
+
+SITE-BY-SITE RESULTS:
+================================================================================
+
+
+FARM_SITE_1
+--------------------------------------------------------------------------------
+Type: farm
+Description: Paragominas soybean farm
+Economic Activity Increase: nan%
+Peak Deforestation: 2001
+
+FARM_SITE_2
+--------------------------------------------------------------------------------
+Type: farm
+Description: Santana do Araguaia agricultural area
+Economic Activity Increase: nan%
+Peak Deforestation: 2001
+
+FARM_SITE_3
+--------------------------------------------------------------------------------
+Type: farm
+Description: Lucas do Rio Verde crop farm
+Economic Activity Increase: nan%
+Peak Deforestation: 2001
+
+PASTURE_SITE_1
+--------------------------------------------------------------------------------
+Type: pasture
+Description: São Félix do Xingu cattle ranch
+Economic Activity Increase: nan%
+Peak Deforestation: 2001
+
+PASTURE_SITE_2
+--------------------------------------------------------------------------------
+Type: pasture
+Description: Novo Progresso pasture
+Economic Activity Increase: nan%
+Peak Deforestation: 2001
+
+PASTURE_SITE_3
+--------------------------------------------------------------------------------
+Type: pasture
+Description: Rondônia cattle area
+Economic Activity Increase: nan%
+Peak Deforestation: 2001
